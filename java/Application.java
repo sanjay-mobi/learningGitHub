@@ -1,1 +1,3 @@
-class Application{}
+class Application{
+private String name="";
+}
